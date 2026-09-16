@@ -40,12 +40,15 @@ The machine learning and Streamlit implementation were developed with assistance
 
 ### Workforce Overview
 General workforce distribution and population characteristics.
+<img width="1458" height="817" alt="Overview" src="https://github.com/user-attachments/assets/ebcdec0b-06f2-42cf-8030-8349984d4f7f" />
 
 ### Depression Analysis
 Depression rates across age, work pressure, sleep, diet, job satisfaction and working hours.
+<img width="1455" height="816" alt="Depression Analysis" src="https://github.com/user-attachments/assets/82455224-a8cb-41c0-9aba-d6cf1ad68a6d" />
 
 ### Compound Risk Analysis
 Analysis of combined risk factors and high-risk employee segments.
+<img width="1453" height="818" alt="Compound Risk Analysis" src="https://github.com/user-attachments/assets/f1acf169-788c-4f5d-ae79-f0d6d7c6c22b" />
 
 ## SQL Analysis
 
