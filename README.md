@@ -50,6 +50,13 @@ Depression rates across age, work pressure, sleep, diet, job satisfaction and wo
 Analysis of combined risk factors and high-risk employee segments.
 <img width="1453" height="818" alt="Compound Risk Analysis" src="https://github.com/user-attachments/assets/f1acf169-788c-4f5d-ae79-f0d6d7c6c22b" />
 
+## Interactive Risk Prediction Prototype
+
+A Streamlit-based prototype was developed to demonstrate how the trained model can be used interactively.
+
+Users can enter profile information such as age, work pressure, financial stress, job satisfaction, work/study hours, sleep duration, dietary habits, and suicidal-thought history. The application then returns a model-based risk score.
+<img width="1436" height="800" alt="image" src="https://github.com/user-attachments/assets/0d718008-62d5-475c-aeaf-300db9e5ae7c" />
+
 ## SQL Analysis
 
 SQL was used for:
