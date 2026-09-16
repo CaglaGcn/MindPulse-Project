@@ -58,9 +58,6 @@ SQL was used for:
 - Numeric range validation
 - Data preparation for further analysis
 
-See:
-
-`sql/mental_health_analysis.sql`
 
 ## Disclaimer
 
